@@ -20,7 +20,7 @@
 
 	<groupId>it.geosolutions</groupId>
 	<artifactId>geoserver-manager</artifactId>
-	<version>1.7.${bambooBuildNumber}-SNAPSHOT</version>
+	<version>1.7-SNAPSHOT-${bambooBuildNumber}</version>
 
 	<packaging>jar</packaging>
 
